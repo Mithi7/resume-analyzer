@@ -1,0 +1,30 @@
+John Doe
+Email: johndoe@example.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/johndoe
+
+Professional Summary:
+Results-driven software engineer with 5+ years of experience in designing, developing, and deploying scalable web applications. Strong background in full-stack development and a passion for creating efficient and user-friendly solutions.
+
+Skills:
+- Programming: Python, JavaScript, Java, C++
+- Web: HTML, CSS, React, Node.js, Flask, Django
+- Databases: MySQL, PostgreSQL, MongoDB
+- Tools: Git, Docker, AWS, Jenkins, JIRA
+
+Professional Experience:
+
+Software Engineer | TechNova Solutions | New York, NY | 2021 – Present
+- Led development of customer onboarding platform, reducing signup time by 40%.
+- Integrated third-party APIs to expand product features.
+- Collaborated with cross-functional teams in Agile environment.
+
+Full Stack Developer | WebGenix Inc. | Boston, MA | 2018 – 2021
+- Built internal dashboard used by 200+ employees.
+- Migrated legacy codebase to React and Node.js, improving performance.
+- Mentored junior developers and conducted code reviews.
+
+Education:
+B.S. in Computer Science | University of California, Berkeley | 2014 – 2018
+
+Certifications:
+- AWS Certified Solutions Architect – Associate
+- Certified ScrumMaster (CSM)

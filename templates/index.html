@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume Analyzer</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <h1>Upload Your Resume</h1>
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="resume" accept=".txt,.md,.rtf">
+        <button type="submit">Analyze</button>
+    </form>
+    <div class="result">
+        <h2>Analysis Result:</h2>
+        <p>{{ result | safe }}</p>
+    </div>
+</body>
+</html>
