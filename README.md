@@ -51,9 +51,9 @@ pip install -r requirements.txt
 
 ### 2. Set your OpenAI API key:
 
-setx OPENAI_API_KEY "your-openai-api-key" (the key is set globally)
+```setx OPENAI_API_KEY "your-openai-api-key" ```(the key is set globally)
 or
-set the key in local environment: $env:OPENAI_API_KEY = "openai-api-key"
+Set the key in local environment: ```$env:OPENAI_API_KEY = "openai-api-key"```
 
 ### 3. **Start the app**:
 
