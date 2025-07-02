@@ -25,6 +25,8 @@ An AI-powered web application that analyzes a ** resume** and provides **detaile
 
 ## Project Structure
 
+
+```
 resume_analyzer/
 ├── pycache/
 ├── static/
@@ -38,7 +40,7 @@ resume_analyzer/
 ├── requirements.txt # Required Python libraries
 ├── README.md # Project documentation
 
-
+```
 ---
 
 ## Getting Started
